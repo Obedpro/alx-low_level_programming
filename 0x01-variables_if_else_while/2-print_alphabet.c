@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <sdlib.h>
-#include <time.h>
 
 /**
 * main - prints the alphabets in lower cases
@@ -13,7 +11,7 @@
 int main(void)
 {
 	char c;
-	for (c = Ã'a';c<='z';c++)
+	for (c = 'a'; c<='z'; c++)
 		putchar(c);
 	putchar('\n');
 	return (0);
