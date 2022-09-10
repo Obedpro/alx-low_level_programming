@@ -10,6 +10,7 @@
 int main(void)
 {
 	int n;
+	int a;
 	char last[]="Last digit of ";
 
 	srand(time(0));
@@ -43,15 +44,16 @@ int main(void)
 		}
 	else
 	{
-		if((-n%10) > 5)
+		a = (-1)*n
+		if(a%10 > 5)
 		{
 			printf("greater than 5\n");
 		}
-		else if((-n%10) > 6)
+		else if(a%10 > 6)
 		{
 			printf("less than 6 and not 0\n");
 		}
-		else((-n%10) == 0)
+		else(a%10 == 0)
 		{
 			printf("0\n");
 		}
