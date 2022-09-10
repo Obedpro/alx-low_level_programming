@@ -44,16 +44,15 @@ int main(void)
 		}
 	else
 	{
-		a = (-1)*n
-		if(a%10 > 5)
+		if(-9< n%10 < -5)
 		{
 			printf("greater than 5\n");
 		}
-		else if(a%10 > 6)
+		else if(-6 < a%10 < 0)
 		{
 			printf("less than 6 and not 0\n");
 		}
-		else(a%10 == 0)
+		else(n%10 == 0)
 		{
 			printf("0\n");
 		}
