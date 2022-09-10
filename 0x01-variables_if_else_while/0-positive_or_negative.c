@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
-* √main - print if the number is positive, zero or negative
+* main - print if the number is positive, zero or negative
 *
 * Description: using the function
 * This program prints "Code is positive, zero or negative"
@@ -22,11 +22,11 @@ if (n > 0)
 }
 else if (n == 0)
 {
-	printf("%i is zero\n", n√);
+	printf("%i is zero\n", n);
 }
 else if (n < 0)
 {
-	printf("%i is negative\n", n√);
+	printf("%i is negative\n", n);
 }
 return (0);
 }
