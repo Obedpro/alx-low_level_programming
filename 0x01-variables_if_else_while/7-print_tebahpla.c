@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main prints alphabet in inverse
+* main - prints alphabet in inverse
 *
 * Description: using the main function
 * this program prints lowercase alphabet in reverse
