@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stlib.h>
 
 /**
 * main - prints the single ditgit numbers of base 10
