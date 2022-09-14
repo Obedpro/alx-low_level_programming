@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
 * main - prints _putchar followed by the new line
@@ -22,5 +22,3 @@ int main(void)
 
 	return (0);
 }
-
-
