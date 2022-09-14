@@ -4,7 +4,7 @@
 * print_sign - function that prints the sign of a number
 *
 * @n: using the print_sign function
-* Return: -1; 0; 1
+* Return: -1, 0 1;
 */
 int print_sign(int n)
 {
@@ -20,7 +20,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		_putchar('+');
+		_putchar('-');
 		return (-1);
 	}
 }
