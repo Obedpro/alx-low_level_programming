@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_line - function that draws a straight
- * @n: the parameter 
+ * print_line - printing line
+ * @n: integer parameter
  */
-void print_line(int n)
+void print_liner(int n)
 {
 	int i;
 
