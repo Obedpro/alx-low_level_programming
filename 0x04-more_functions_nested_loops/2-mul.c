@@ -6,7 +6,7 @@
  * @k: second integer of mul
  * Return: 0
  */
-int mul(int n; int m)
+int mul(int n, int m)
 {
 	return (n * m);
 }
