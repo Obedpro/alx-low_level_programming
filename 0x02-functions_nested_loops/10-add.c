@@ -6,11 +6,10 @@
  * @m: second integer
  * Return: 0
  */
-int add(int, int)
+int add(int n, int m)
 {
-	int n, m;
 	int result;
 
 	result = n + m;
-	returm (result);
+	return (result);
 }
