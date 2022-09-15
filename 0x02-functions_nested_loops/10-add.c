@@ -6,7 +6,7 @@
  * @m: second integer
  * Return: 0
  */
-int add(int, int);
+int add(int, int)
 {
 	int n, m;
 	int result;
