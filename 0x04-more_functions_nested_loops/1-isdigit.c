@@ -2,7 +2,7 @@
 
 /**
  * _isdigit - a function that checks for a digit (0 through 9).
- * @n: the paramter of the _isdigit
+ * @n: the paramter in the _isdigit function
  * Return: 0 and 1
  */
 int _isdigit(int n)
