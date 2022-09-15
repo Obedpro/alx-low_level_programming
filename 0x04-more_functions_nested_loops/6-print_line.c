@@ -4,7 +4,7 @@
  * print_line - printing line
  * @n: integer parameter
  */
-void print_liner(int n)
+void print_line(int n)
 {
 	int i;
 
