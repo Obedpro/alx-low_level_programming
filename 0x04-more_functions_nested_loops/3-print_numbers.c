@@ -3,7 +3,6 @@
 /**
  * print_numbers - function that prints numbers 0 to 9
  * Description: using  print_numbers
- * Return: Nothing
  */
 void print_numbers(void)
 {
@@ -12,6 +11,7 @@ void print_numbers(void)
 	while (i <= 9)
 	{
 		_putchar(i + '0');
+		i++;
 	}
 	_putchar('\n');
 }
