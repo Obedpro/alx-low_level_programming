@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- *
- *
- *
- */
 
 int main(void)
 {
@@ -13,16 +8,17 @@ int main(void)
 	int j = 0;
 	int r = 0;
 
-	while ( n <= 1024)
+	while (n <= 1024)
 	{
 		n += (3 * i);
-		i++;	
+		i++;
 	}
-	while ( r <= 1024)
+	while (r <= 1024)
 	{
 		r += (5  * j);
-		j ++;
+		j++;
 	}
-	printf("The sum of multiples of 3 or 5 bellow 1024 is %d\n", n + r);
+	printf("%d\n", n + r);
+	printf("\n");
 	return (0);
 }
