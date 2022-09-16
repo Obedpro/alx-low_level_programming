@@ -3,9 +3,9 @@
 
 /**
  * fizzBuzz - print 100
- *
+ *Return: 0
  */
-void fizzBuzz(void)
+int fizzBuzz(void)
 {
 	int i;
 
@@ -21,4 +21,5 @@ void fizzBuzz(void)
 			printf("%d ", i);
 	}
 	printf("\n");
+	return (0);
 }
