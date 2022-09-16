@@ -20,4 +20,5 @@ void fizzBuzz(void)
 		else
 			printf("%d ", i);
 	}
+	printf("\n");
 }
