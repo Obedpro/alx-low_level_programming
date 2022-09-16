@@ -15,5 +15,7 @@ O - Write a function that checks for uppercase character.
 
 8 - Write a function that prints a square, followed by a new line.
 
-9 - 
+9 - Printing numbers 1 to 100
+
+10 - Write a function that prints a triangle, followed by a new line. 
 
