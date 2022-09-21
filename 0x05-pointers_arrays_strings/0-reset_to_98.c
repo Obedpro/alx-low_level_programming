@@ -5,7 +5,6 @@
  * @n: the parameter in the function
  * Description: using function reset_to_98
  * function that takes and updates the value it points to 98
- *
  * Return: 0
  */
 
