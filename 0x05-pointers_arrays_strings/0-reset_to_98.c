@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * reset_to_98 - function that takes a pointer to an int
+ * reset_to_98 - resets the value of given integer to 98
  * @n: the parameter in the function
- * Description: using function reset_to_98
- * function that takes and updates the value it points to 98
+ * Description: using the main
  * Return: 0
  */
 
