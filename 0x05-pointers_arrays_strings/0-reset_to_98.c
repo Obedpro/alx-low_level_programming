@@ -3,7 +3,8 @@
 /**
  * reset_to_98(int *n) - function that takes a pointer to an int
  * @n: the parameter in the function
- * Description: function reset_to_98(int *n) that takes and updates the value it points to 98
+ * Description: using function reset_to_98
+ * funcction that takes and updates the value it points to 98
  * Return: 0
  */
 
